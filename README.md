@@ -9,8 +9,8 @@ I didn't want to manually delete 50+ empty albums from failed imports/backups an
 **DELETED ALBUMS CANNOT BE RESTORED. THEY DON'T GO TO A RECYCLE BIN. THIS IS AN IMMUTABLE AND VERY PERMANENT ACTION. MAKE SURE YOU READ THE PREVIEW DELETION LIST BEFORE YOU FIRE ZE MISSLES.** 🚀
 
 ## How to Run - No Additional Code Needed
-1. Download [UI Vision][[https://ui.vision](https://ui.vision/#get) in a supported browser
-2. Open UI Vision
+1. Download [UI Vision](https://ui.vision/#get) in a supported browser
+2. Open UI Vision in whichever browser you just added it to as an extension
 3. On the _Files_ tab, click the _New Folder_ icon and give your folder a name
 4. Right Click the folder you just created and select _New macro_ - give it a name, too
 5. Right Click the macro -> Edit
@@ -20,5 +20,6 @@ I didn't want to manually delete 50+ empty albums from failed imports/backups an
 9. **Review the list carefully**
 10. Only if you've confirmed the correct albums to delete, enter _APPROVED_ in the prompt when it pops up
 11. ???
-12. ~Profit~ Monitor as it loops through up to 100 empty albums (you can edit this parameter in the script or just hit Play again)
-13. Ask Google to add bulk album management to render this totally irrelevant and/or wait for Photos to be added to https://killedbygoogle.com 🪦
+12. ~Profit~
+13. Monitor as it loops through up to 100 empty albums (you can edit this parameter in the script or just hit Play again)
+14. (optional) Ask Google to add bulk album management to render this totally irrelevant and/or wait for Photos to be added to https://killedbygoogle.com 🪦
