@@ -21,5 +21,5 @@ I didn't want to manually delete 50+ empty albums from failed imports/backups an
 10. Only if you've confirmed the correct albums to delete, enter _APPROVED_ in the prompt when it pops up
 11. ???
 12. ~Profit~
-13. Monitor as it loops through up to 100 empty albums (you can edit this parameter in the script or just hit Play again)
+13. Monitor as it loops through up to 100 empty albums (you can edit this parameter in the script here: `for (let attempt = 1; attempt <= 100; attempt++)` or just hit Play again)
 14. (optional) Ask Google to add bulk album management to render this totally irrelevant and/or wait for Photos to be added to https://killedbygoogle.com 🪦
